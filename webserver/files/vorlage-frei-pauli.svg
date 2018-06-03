@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Ebene_1"
+   data-name="Ebene 1"
+   viewBox="0 0 640 384"
+   version="1.1"
+   sodipodi:docname="vorlage-frei-pauli.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata146">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tuerschild_flaechen</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1898"
+     inkscape:window-height="2091"
+     id="namedview144"
+     showgrid="false"
+     inkscape:zoom="2.2705819"
+     inkscape:cx="108.17051"
+     inkscape:cy="314.08876"
+     inkscape:window-x="1928"
+     inkscape:window-y="10"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Ebene_1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,640"
+       id="guide880"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="640,0"
+       orientation="-384,0"
+       id="guide882"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="640,384"
+       orientation="0,-640"
+       id="guide884"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,384"
+       orientation="384,0"
+       id="guide886"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1,.cls-12,.cls-13,.cls-2,.cls-7,.cls-8{isolation:isolate;}.cls-11,.cls-12,.cls-13,.cls-2,.cls-5,.cls-6,.cls-7{font-size:16px;}.cls-12,.cls-2,.cls-4,.cls-6,.cls-7,.cls-8{font-family:OpenSans-Bold, Open Sans;}.cls-2,.cls-4,.cls-6,.cls-7,.cls-9{font-weight:700;}.cls-3,.cls-4,.cls-8{font-size:21px;}.cls-3,.cls-5{font-family:OpenSans-Regular, Open Sans;}.cls-7{fill:#fff;}.cls-10,.cls-13{font-family:OpenSans-Italic, Open Sans;font-style:italic;}</style>
+  </defs>
+  <title
+     id="title6">Tuerschild_flaechen</title>
+  <rect
+     style="fill:#ffffff;stroke-width:1.33088064;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect888"
+     width="640"
+     height="384"
+     x="0"
+     y="0" />
+  <polygon
+     points="640 0 380.5 0 380 0 379.5 0 379.5 384 380.5 384 380.5 36.51 640 36.51 640 0"
+     id="polygon8" />
+  <path
+     d="M64.8,224.17h0a1.87,1.87,0,0,0-1.68.76,3.46,3.46,0,0,0-.4,1.91,3.31,3.31,0,0,0,.51,2,1.87,1.87,0,0,0,1.57.65h0a1.86,1.86,0,0,0,1.56-.65,3.37,3.37,0,0,0,.5-2,3.55,3.55,0,0,0-.41-1.9A1.81,1.81,0,0,0,64.8,224.17Z"
+     id="path10" />
+  <path
+     d="M349.29,174.94H26a4,4,0,0,0-4,4v67.15a4,4,0,0,0,4,4H349.29a4,4,0,0,0,4-4V178.94A4,4,0,0,0,349.29,174.94ZM82.77,200.84l1.2,1.65a1.07,1.07,0,0,1-.28,1.47l-3,2.15a1.08,1.08,0,0,1-1.49-.19L78,204.27a1.05,1.05,0,0,1,.28-1.46l3-2.16A1.06,1.06,0,0,1,82.77,200.84ZM80,197.06l1.2,1.65a1.05,1.05,0,0,1-.28,1.46l-3,2.16a1.06,1.06,0,0,1-1.48-.19l-1.2-1.65a1.05,1.05,0,0,1,.27-1.46l3-2.16A1.07,1.07,0,0,1,80,197.06ZM75.75,204l-3,2.16a1.05,1.05,0,0,1-1.47-.19l-1.2-1.65a1.07,1.07,0,0,1,.27-1.47l3-2.16a1.06,1.06,0,0,1,1.47.19L76,202.49A1.06,1.06,0,0,1,75.75,204Zm-2.92-8.71,3-2.15a1,1,0,0,1,1.47.19l1.21,1.65a1.07,1.07,0,0,1-.28,1.47l-3,2.15a1,1,0,0,1-1.47-.18l-1.21-1.66A1.07,1.07,0,0,1,72.83,195.24Zm-.75,1.81,1.2,1.66a1.05,1.05,0,0,1-.27,1.46l-3,2.16a1,1,0,0,1-1.47-.19l-1.21-1.66a1.06,1.06,0,0,1,.28-1.46l3-2.15A1.05,1.05,0,0,1,72.08,197.05ZM57,208a1.06,1.06,0,0,1,.27-1.47l3-2.16a1.07,1.07,0,0,1,1.48.2l1.19,1.65a1,1,0,0,1-.27,1.46l-3,2.16a1.07,1.07,0,0,1-1.48-.19Zm.44,3.46-3,2.15a1.07,1.07,0,0,1-1.48-.19l-1.2-1.65a1.07,1.07,0,0,1,.27-1.47l3-2.15a1.05,1.05,0,0,1,1.48.19L57.7,210A1.06,1.06,0,0,1,57.42,211.5Zm5-8.7,3-2.16a1.07,1.07,0,0,1,1.48.19l1.2,1.65a1.05,1.05,0,0,1-.27,1.46l-3,2.16a1.05,1.05,0,0,1-1.48-.19l-1.2-1.65A1,1,0,0,1,62.45,202.8ZM60,210.35l3-2.15a1.05,1.05,0,0,1,1.48.18l1.2,1.65a1.06,1.06,0,0,1-.27,1.47l-3,2.15a1.06,1.06,0,0,1-1.48-.19l-1.2-1.64A1.06,1.06,0,0,1,60,210.35Zm2.74,3.77,3-2.15a1.08,1.08,0,0,1,1.49.18l1.2,1.65a1.06,1.06,0,0,1-.28,1.47l-3,2.16a1,1,0,0,1-1.47-.19l-1.21-1.66A1.06,1.06,0,0,1,62.74,214.12Zm2.16-18.88,3-2.15a1.06,1.06,0,0,1,1.48.19l1.19,1.65a1.06,1.06,0,0,1-.27,1.47l-3,2.15a1.06,1.06,0,0,1-1.48-.19l-1.2-1.65A1.06,1.06,0,0,1,64.9,195.24ZM59.7,199l3-2.14a1.05,1.05,0,0,1,1.48.18l1.19,1.65a1.06,1.06,0,0,1-.27,1.47l-3,2.15a1.06,1.06,0,0,1-1.48-.18l-1.2-1.66A1.08,1.08,0,0,1,59.7,199Zm-5.2,3.78,3-2.15a1.06,1.06,0,0,1,1.48.18l1.2,1.66a1,1,0,0,1-.28,1.46l-3,2.16a1.05,1.05,0,0,1-1.48-.19l-1.2-1.66A1.05,1.05,0,0,1,54.5,202.79Zm-5.19,3.78,3-2.16a1.05,1.05,0,0,1,1.47.19L55,206.25a1.07,1.07,0,0,1-.28,1.47l-3,2.16a1.07,1.07,0,0,1-1.48-.19L49,208A1,1,0,0,1,49.31,206.57Zm-5.19,3.77,3-2.15a1.06,1.06,0,0,1,1.48.19l1.2,1.65a1.06,1.06,0,0,1-.28,1.46l-3,2.15a1.05,1.05,0,0,1-1.48-.19l-1.2-1.64A1.06,1.06,0,0,1,44.12,210.34Zm-5.2,3.77,3-2.16a1.07,1.07,0,0,1,1.48.19l1.2,1.66a1,1,0,0,1-.27,1.46l-3,2.16a1.07,1.07,0,0,1-1.48-.19l-1.2-1.65A1.07,1.07,0,0,1,38.92,214.11Zm5.28,16.7H42l-4.34-10.17h2.46l3,7.65,3.08-7.65H48.7Zm7.06,0H49.55v-7.93h1.71Zm-2-13.39a1,1,0,0,1-1.47-.19l-1.21-1.65a1.06,1.06,0,0,1,.28-1.47l3-2.15a1.05,1.05,0,0,1,1.47.19l1.21,1.65a1.07,1.07,0,0,1-.28,1.47Zm10.43,12.35a1.92,1.92,0,0,1-1.41,1,9.44,9.44,0,0,1-1.38.07h-4V229.4h3.66a2.7,2.7,0,0,0,1.17-.17.83.83,0,0,0,.43-.75.9.9,0,0,0-.5-.84,2,2,0,0,0-.9-.16H55.25a3.1,3.1,0,0,1-2-.49,2.17,2.17,0,0,1-.59-.77,2.59,2.59,0,0,1-.21-1,2.65,2.65,0,0,1,.49-1.53,2.12,2.12,0,0,1,1.55-.78c.24,0,.59,0,1.07,0h4v1.41H56a6.74,6.74,0,0,0-1.07.07.72.72,0,0,0-.54.81.76.76,0,0,0,.45.77,2.75,2.75,0,0,0,1,.13h1.29a5,5,0,0,1,1.48.17,1.83,1.83,0,0,1,1.16,1,2.83,2.83,0,0,1,.26,1.23A2.5,2.5,0,0,1,59.69,229.77Zm.48-14.5-3,2.15a1.05,1.05,0,0,1-1.48-.18l-1.19-1.66a1.06,1.06,0,0,1,.27-1.47l3-2.15a1.07,1.07,0,0,1,1.48.19l1.2,1.65A1.08,1.08,0,0,1,60.17,215.27Zm8.17,13.79a2.93,2.93,0,0,1-1.59,1.49,5,5,0,0,1-1.84.31h-.12a5.19,5.19,0,0,1-2.23-.5,2.83,2.83,0,0,1-1.29-1.31,4.86,4.86,0,0,1-.44-2.16A4,4,0,0,1,62,223.66a4.33,4.33,0,0,1,2.82-.83,5.21,5.21,0,0,1,2.12.41,2.79,2.79,0,0,1,1.5,1.62,5.78,5.78,0,0,1,.34,2.1A5,5,0,0,1,68.34,229.06Zm9.74-6.61H74.67v8.36H72.49v-8.36H69.22v-1.81h8.86ZM85,224.29H82.77a4.75,4.75,0,0,0-1.27.12,1.26,1.26,0,0,0-.67.47,1.42,1.42,0,0,0-.23.46,5.28,5.28,0,0,0-.12.82H85v1.41H80.48a1.92,1.92,0,0,0,.61,1.43,2.89,2.89,0,0,0,1.75.4H85v1.41H82.77a9.57,9.57,0,0,1-1.6-.11,2.74,2.74,0,0,1-1.72-.93,4.48,4.48,0,0,1-.91-3,4.1,4.1,0,0,1,1.29-3.23,2.5,2.5,0,0,1,.94-.54,4.75,4.75,0,0,1,1.34-.16H85Zm7.45,0H89.92a2.11,2.11,0,0,0-1.68.61,2.75,2.75,0,0,0-.44,1.81,3,3,0,0,0,.68,2.31,2.45,2.45,0,0,0,1.5.38h2.46v1.41h-2.8a7.58,7.58,0,0,1-1.22-.07,2.81,2.81,0,0,1-2.1-1.64,5.42,5.42,0,0,1-.41-2.23,4.87,4.87,0,0,1,.63-2.61,2.73,2.73,0,0,1,1.21-1,5,5,0,0,1,2-.33h2.72Zm7.62,6.52h-1.7v-3.28h-3.1v3.28h-1.7v-7.93h1.7v3.24h3.1v-3.24h1.7Zm252.23,15.28a3,3,0,0,1-3,3H118.17V175.94H349.29a3,3,0,0,1,3,3Z"
+     id="path12" />
+  <g
+     id="text67"
+     class="cls-1"
+     transform="translate(-6,-4)"
+     style="isolation:isolate">
+    <text
+       class="cls-2"
+       id="text14"
+       style="font-weight:bold;font-size:16px;font-family:'Open Sans';isolation:isolate;-inkscape-font-specification:'Open Sans Bold';font-style:normal;font-stretch:normal;font-variant:normal;"
+       x="132.89999"
+       y="223.45">
+      <tspan
+         style="font-size:20px;-inkscape-font-specification:'Open Sans Bold';font-family:'Open Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+         id="tspan890">_location</tspan>
+    </text>
+  </g>
+  <text
+     class="cls-5"
+     transform="translate(35.55 345.67)"
+     id="text27">MO</text>
+  <text
+     class="cls-5"
+     transform="translate(37.67,280.99)"
+     id="text29"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">_month_begin</text>
+  <text
+     class="cls-3"
+     transform="translate(156.72 280.99)"
+     id="text31"
+     style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">KW _weeknumber</text>
+  <text
+     class="cls-5"
+     id="text33"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end"
+     x="342.99469"
+     y="280.98999">_month_end</text>
+  <text
+     class="cls-6"
+     transform="translate(110.43 345.67)"
+     id="tuesday_text"
+     style="-inkscape-font-specification:'Open Sans Bold';font-family:'Open Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
+     inkscape:label="#text35">
+    <tspan
+       style="-inkscape-font-specification:'Open Sans';font-family:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       id="tspan8569">DI</tspan>
+  </text>
+  <text
+     class="cls-5"
+     transform="translate(179.55 345.67)"
+     id="text37">MI</text>
+  <text
+     class="cls-5"
+     transform="translate(246.94 345.67)"
+     id="text39">DO</text>
+  <text
+     class="cls-5"
+     transform="translate(319.93 345.67)"
+     id="text41">FR</text>
+  <text
+     class="cls-7"
+     transform="translate(464.59 25.51)"
+     id="text43"
+     style="-inkscape-font-specification:'Open Sans Bold';font-family:'Open Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;">Demnächst</text>
+  <text
+     class="cls-3"
+     id="text63"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+     x="362.84134"
+     y="136.48039">
+    <tspan
+       style="text-align:end;text-anchor:end"
+       id="tspan7320">_end_0</tspan>
+  </text>
+  <path
+     d="m 335.91,144.59 a 3.74,3.74 0 0 0 -3.71,3.26 H 43 a 3.76,3.76 0 1 0 0,1 h 289.2 a 3.75,3.75 0 1 0 3.71,-4.26 z"
+     id="path65"
+     inkscape:connector-curvature="0" />
+  <circle
+     cx="119"
+     cy="359.83"
+     r="3.75"
+     id="tuesday_dot"
+     inkscape:label="#tuesday_dot" />
+  <text
+     class="cls-13"
+     id="text123"
+     x="341.14001"
+     y="112.71"
+     style="font-style:normal;font-size:16px;font-family:'Open Sans';isolation:isolate;-inkscape-font-specification:'Open Sans';font-weight:normal;font-stretch:normal;font-variant:normal;">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';"
+       id="tspan86">bis</tspan>
+  </text>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 602.63292,251.63358 a 3.75,3.75 0 0 0 -3.71,3.26 h -173.38 a 3.76,3.76 0 1 0 0,1 h 173.38 a 3.75,3.75 0 1 0 3.71,-4.26 z"
+     id="path1774" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 602.63292,361.37358 a 3.75,3.75 0 0 0 -3.71,3.26 h -173.38 a 3.76,3.76 0 1 0 0,1 h 173.38 a 3.75,3.75 0 1 0 3.71,-4.26 z"
+     id="path1796" />
+  <text
+     y="76.813576"
+     x="513.81396"
+     class="cls-12"
+     id="text1806"
+     style="font-size:16px;font-family:OpenSans-Bold, 'Open Sans';text-align:center;text-anchor:middle;isolation:isolate">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle"
+       id="tspan961">_summary_1</tspan>
+  </text>
+  <text
+     y="133.92358"
+     x="393.09558"
+     class="cls-3"
+     id="text1816"
+     style="font-size:21px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">_start_1</text>
+  <text
+     y="133.92358"
+     x="573.90411"
+     class="cls-3"
+     id="text1822"
+     style="font-size:21px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">_end_1</text>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 602.63292,141.89357 a 3.75,3.75 0 0 0 -3.71,3.26 h -173.38 a 3.76,3.76 0 1 0 0,1 h 173.38 a 3.75,3.75 0 1 0 3.71,-4.26 z"
+     id="path1824" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="514.17303"
+     y="97.922981"
+     id="text965"><tspan
+       sodipodi:role="line"
+       id="tspan963"
+       x="514.17303"
+       y="97.922981"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle">_organizer_1</tspan></text>
+  <text
+     style="font-size:16px;font-family:OpenSans-Bold, 'Open Sans';text-align:center;text-anchor:middle;isolation:isolate"
+     id="text981"
+     class="cls-12"
+     x="512.5542"
+     y="186.55357">
+    <tspan
+       id="tspan979"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle">_summary_2</tspan>
+  </text>
+  <text
+     style="font-size:21px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="text983"
+     class="cls-3"
+     x="393.09558"
+     y="243.66359">_start_2</text>
+  <text
+     style="font-size:21px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+     id="text985"
+     class="cls-3"
+     x="573.90411"
+     y="243.66359">_end_2</text>
+  <text
+     id="text991"
+     y="207.66298"
+     x="512.70886"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle"
+       y="207.66298"
+       x="512.70886"
+       id="tspan989"
+       sodipodi:role="line">_organizer_2</tspan></text>
+  <text
+     y="296.29358"
+     x="512.62256"
+     class="cls-12"
+     id="text997"
+     style="font-size:16px;font-family:OpenSans-Bold, 'Open Sans';text-align:center;text-anchor:middle;isolation:isolate">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle"
+       id="tspan995">_summary_3</tspan>
+  </text>
+  <text
+     y="353.40359"
+     x="393.09558"
+     class="cls-3"
+     id="text999"
+     style="font-size:21px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">_start_3</text>
+  <text
+     y="353.40359"
+     x="573.90411"
+     class="cls-3"
+     id="text1001"
+     style="font-size:21px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">_end_3</text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="512.75116"
+     y="317.40298"
+     id="text1005"><tspan
+       sodipodi:role="line"
+       id="tspan1003"
+       x="512.75116"
+       y="317.40298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle">_organizer_3</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 187.59927,113.65991 a 23.52,23.52 0 1 1 23.51,-23.509999 23.54,23.54 0 0 1 -23.51,23.509999 z m 0,-45.999999 a 22.52,22.52 0 1 0 22.51,22.52 22.54,22.54 0 0 0 -22.51,-22.6 z"
+     id="path4986" />
+  <polygon
+     transform="translate(-1.9157247,-12.340089)"
+     points="180.09,105.11 180.6,104.26 189.24,109.48 198.06,94.17 198.92,94.67 189.6,110.86 "
+     id="polygon4988" />
+  <text
+     y="49.16991"
+     x="156.87834"
+     class="cls-9"
+     id="text5072"
+     style="font-weight:700">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'"
+       id="tspan5721">Frei</tspan>
+  </text>
+  <text
+     y="326.10007"
+     x="37.120014"
+     class="cls-3"
+     id="text17-2"
+     style="font-size:21px;font-family:OpenSans-Regular, 'Open Sans'">_monday</text>
+  <text
+     y="326.10007"
+     x="107.01002"
+     class="cls-4"
+     id="text19-6"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+       id="tspan7930">_tuesday</tspan>
+  </text>
+  <text
+     y="326.10007"
+     x="176.87001"
+     class="cls-3"
+     id="text21-5"
+     style="font-size:21px;font-family:OpenSans-Regular, 'Open Sans'">_wednesday</text>
+  <text
+     y="326.10007"
+     x="246.74002"
+     class="cls-3"
+     id="text23-2"
+     style="font-size:21px;font-family:OpenSans-Regular, 'Open Sans'">_thursday</text>
+  <text
+     y="326.10007"
+     x="316.62003"
+     class="cls-3"
+     id="text25-6"
+     style="font-size:21px;font-family:OpenSans-Regular, 'Open Sans'">_friday</text>
+</svg>
