@@ -22,12 +22,8 @@
 #include "html.h"       // HTML page of the tool
 
 /* SSID and password of your WiFi net ----------------------------------------*/
-/*const char* ssid     = "Dark Knight";//"your ssid";
-const char* password = "XIIAqcV7GQ8YT1dSVMP6ebT4DSRm5aV1I8plzenM2q982X34CM6dllYKbBtsPZi";//"your password";
-const char* ssid     = "BRIDGE";//"your ssid";
-const char* password = "12345678";//"your password";*/
 const char* ssid     = "werschi-AP";//"your ssid";
-const char* password = "aa66be44adc8";//"your password";
+const char* password = "aa66be44adc8";//"your password";*/
 
 
 /* Server and IP address ------------------------------------------------------*/
